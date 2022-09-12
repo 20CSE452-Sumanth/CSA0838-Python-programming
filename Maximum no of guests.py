@@ -1,4 +1,6 @@
-N=int(input("N="))
+N=int(input("T="))
+if(N<0):
+    N=abs(N)
 g=[]
 h=[]
 print("E=")
