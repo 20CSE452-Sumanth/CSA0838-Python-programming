@@ -7,7 +7,7 @@ print("E=")
 for i in range(N):
     x=int(input())
     g.append(x)
-print("T=")
+print("L=")
 for i in range(N):
     y=int(input())
     h.append(y)
