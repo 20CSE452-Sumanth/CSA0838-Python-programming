@@ -3,6 +3,6 @@ g=str(num)
 h=g[::-1]
 k=int(h)
 if num==k:
-	print("True")
+	print("Is a palindrome")
 else:
-	print("False")
+	print("Not a palindrome")
