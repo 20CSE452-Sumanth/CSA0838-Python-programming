@@ -4,9 +4,10 @@ Day 1- 10-09-2022
 2. Write a program to sum of squares of [even, odd] in a list
 3. Write a program to check the given number is a happy number or not
 4. Write a program to check the given number is a palindrome or not
-5. Write a program to calculate no of loaves purchased
-6.
+5. Write a program to calculate no of loaves purchased in the bakery
+6. 
 7.
 8.
 9.
 10.
+
