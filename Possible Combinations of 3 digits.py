@@ -1,4 +1,4 @@
-def comb(L):
+def combination(L):
  for i in range(3):
         for j in range(3):
             for k in range(3):
@@ -8,4 +8,4 @@ c=[]
 for i in range(3):
     b=int(input())
     c.append(b)
-comb(c)
+combination(c)
