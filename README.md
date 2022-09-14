@@ -33,13 +33,15 @@ Day 3:13-09-2022
 9.Regular Expression
 10.Convert Word
 Day 4:14-09-2022
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.Index of array
+2.users in college
+3.Number smaller than the current number
+4.Valid palindrome
+5.Minimum jumps
+6.del char
+7.Lexiocographical sorted vowel
+8.Integer to roman
+9.Season
+10.Scramble string
+
+.
