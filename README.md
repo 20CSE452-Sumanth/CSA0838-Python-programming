@@ -25,13 +25,13 @@ Day 3:13-09-2022
 1.to calculate the maximum profit that a share trader could made
 2.to calculate the possible combinations of 3 digit number
 3.Good pair
-4.
-5.
-6.
+4.Add binary strings
+5.Minimum Steps
+6.Mirror Number
 7.Permutations 
-8.
-9.
-10.
+8.Anagram
+9.Regular Expression
+10.Convert Word
 Day 4:14-09-2022
 1.
 2.
