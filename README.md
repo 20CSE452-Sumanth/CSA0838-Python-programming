@@ -40,7 +40,7 @@ Day 4:14-09-2022
 5.Minimum jumps
 6.del char
 7.Lexiocographical sorted vowel
-8.Integer to roman
+8.Roman to Integer
 9.Season
 10.Scramble string
 
