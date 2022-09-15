@@ -61,5 +61,3 @@ if __name__ == "__main__":
   print("Impossible")
  else:
   print(minswap)
-
-# This code is contributed by rakeshsahni
