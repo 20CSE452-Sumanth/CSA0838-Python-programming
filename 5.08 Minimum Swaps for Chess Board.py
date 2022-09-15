@@ -15,36 +15,30 @@ def movesToChessboard(board):
  rowswap = 0
  colswap = 0
 
- # Loop to calculate sum and swap
  for i in range(0, n):
   rowsum += board[i][0]
   colsum += board[0][i]
   rowswap += board[i][0] == i % 2
   colswap += board[0][i] == i % 2
 
- # If there are more white or more black
  if (rowsum != n // 2 and rowsum != (n + 1) // 2):
   return -1
  if (colsum != n // 2 and colsum != (n + 1) // 2):
   return -1
 
- # If n is odd
  if (n % 2):
   if (rowswap % 2):
    rowswap = n - rowswap
   if (colswap % 2):
    colswap = n - colswap
 
- # If n is even
  else:
   rowswap = min(rowswap, n - rowswap)
   colswap = min(colswap, n - colswap)
 
- # Return the ans
  return (rowswap + colswap) // 2
 
 
-# Driver Code
 if __name__ == "__main__":
 
  # Given vector array
@@ -53,10 +47,7 @@ if __name__ == "__main__":
   [1, 0, 0, 1],
   [1, 0, 0, 1]]
 
- # Function call
  minswap = movesToChessboard(arr)
-
- # Printing the output
  if (minswap == -1):
   print("Impossible")
  else:
