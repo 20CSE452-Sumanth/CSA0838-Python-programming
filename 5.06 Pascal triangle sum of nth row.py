@@ -10,11 +10,9 @@ def solve(n):
         print()
 
 class PascalTriangle :
-	#  Sum of given row in pascal triangle
 	def sumPascalRow(self, n) :
 		if (n <= 0) :
 			return
-		#  Assume number is not overflow
 		sum = (1 << n)
 		print("Sum of elements in ",n+1,"th row is ",sum ," ")
 	
